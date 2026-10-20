@@ -1,0 +1,1 @@
+[2026-10-19 12:58:27] Error de conexión BD: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql203.infinityfree.com failed: Host desconocido. 
